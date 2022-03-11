@@ -1,0 +1,15 @@
+{
+    "products": [
+      {
+        "type": "ADD_TODO/TRIGGER",
+        "payload": {
+          "content": "zxczdacsadas",
+          "completed": true,
+          "id": "8d16d0ad-f901-46f0-b308-c5e514138869"
+        },
+        "id": 1,
+        "content": "zxczdacsadas",
+        "completed": false
+      }
+    ]
+  }
